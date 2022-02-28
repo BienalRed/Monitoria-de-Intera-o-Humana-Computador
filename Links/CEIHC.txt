@@ -1,0 +1,3 @@
+http://comissoes.sbc.org.br/ce-ihc/
+
+A CEIHC é a comissão especial de Interação Humano-Computador (IHC) da SBC (Sociedade Brasileira de Computação) cujo objetivo é promover a interação entre pesquisadores, profissionais e alunos interessados nas diversas disciplinas e na sua interdisciplinaridade. Dentre elas destacam-se: Ciência da Computação, Artes, Design, Ergonomia, Psicologia, Sociologia, Semiótica e Linguística.
